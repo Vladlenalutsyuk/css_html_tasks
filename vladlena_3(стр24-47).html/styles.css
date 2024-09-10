@@ -59,3 +59,31 @@
             height: 300px;
         }
     }
+    .task_34{
+        h1 {
+            text-align: right;
+        }
+    
+        h2 {
+            width: 300px;
+            text-align: center ;
+        }
+    
+        table {
+            width: 500px;
+        }
+    
+        th {
+            text-align: left;
+        }
+    
+        td {
+            text-align: center;
+        }
+        p
+        {
+            width: 300px;
+            text-align: justify;
+        }
+    }
+    
