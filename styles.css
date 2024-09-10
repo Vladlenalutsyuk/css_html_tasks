@@ -18,3 +18,33 @@
             color: red;
         }
     }
+    .task_27 {
+        h1 {
+            color: rgb(255, 0, 0);
+        }
+        p {
+            color: #ff8800;
+        }
+        h2 {
+            color: rgb(238, 255, 0);
+        }
+        h3 {
+            color: #08f100;
+        }
+        h4 {
+            color: rgb(0, 227, 243);
+        }
+        h5 {
+            color: #0027c4	;
+        }
+        h6 {
+            color: rgb(101, 0, 168);
+        }
+    
+        b {
+            color: #f800a5;
+        }
+        i {
+            color: #761d38;
+        }
+    }
