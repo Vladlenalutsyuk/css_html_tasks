@@ -122,5 +122,29 @@
     
         }
     }
+    .task_38 {
+        h1 {
+            font-family: Arial;
+        }
+        h2 {
+            font-family: Georgia;
+        }
+        h3 {
+            font-family: Verdana;
+        }
+        h4 {
+            font-family: "Trebuchet MS";
+        }
+        h5 {
+            font-family: Impact;
+        }
+        h6 {
+            font-family: "Arial Black";
+        }
+    
+        p {
+            font-family: "Courier New";
+        }
+    }
     
     
