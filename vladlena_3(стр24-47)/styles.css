@@ -106,5 +106,21 @@
             font-style: italic;
         }
     }
+    .task_37 {
+        h1{
+            font-size: 50px;
+            text-align: center;
+    
+        }
+        h2{
+            font-size: 40px;
+            font-weight: normal;
+    
+        }
+        p{
+            font-size: 30px;
+    
+        }
+    }
     
     
