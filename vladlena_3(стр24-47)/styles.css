@@ -209,3 +209,10 @@
            }
         }
     
+        .task_46 {
+            p
+             {
+                text-decoration:  line-through;
+                color: green;
+             }
+        }
