@@ -164,5 +164,28 @@
         }
         
         }
+        .task_41_1 {
+            p {
+                font: 13px/20px "Times New Roman";
+            }
+        }
+        .task_41_2 {
+
+            p {
+                width: 300px;
+                font: bold 40px Arial;
+                color: red;
+              }
+              
+        }
+        
+        .task_41_3 {
+            p {
+                font: italic bold 40px Arial; 
+                text-indent: 50px;
+                line-height: 60px;
+              }
+              
+        }
     
     
