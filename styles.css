@@ -259,3 +259,72 @@
     line-height: 20px;
              }
         }
+        .task_50a{
+            p {
+                color: blue;
+            }
+        }
+
+        .task_50b{
+            p {
+                color: blue;
+            }
+            b {
+                color: red;
+            }
+        }
+
+        .task_50c{
+            b {
+                color: red;
+            }
+            p {
+                color: blue;
+            }
+        }
+
+        .task_50d{
+            ul {
+                color: blue;
+            }
+        }
+
+        .task_50e{
+            ul {
+                color: blue;
+            }
+            li {
+                color: red;
+            }
+        }
+
+        .task_50f{
+            ul {
+                color: blue;
+            }
+            li {
+                color: red;
+            }
+            i {
+                color: green;
+            }
+        }
+
+        .task_50g{
+            i {
+                font-size: 30px;
+            }
+            ul {
+                font-size: 20px;
+            }
+            li {
+                color: red;
+                font-weight: bold;
+            }
+        }
+
+
+
+
+
+
