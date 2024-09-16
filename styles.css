@@ -341,6 +341,20 @@
                 color: red;
             }
         }
+        .task_52b{
+            h1,h2,h3 {
+                text-align: center;
+                color: red;
+            }
+                
+                
+            h3 {
+                
+                font-size: 16px;
+                
+            }
+
+        }
 
 
 
