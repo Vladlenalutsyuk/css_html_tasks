@@ -355,6 +355,14 @@
             }
 
         }
+        .task_53{
+            ul i{
+                color: red;
+            }
+            p i {
+                color:#08f100
+            }
+        }
 
 
 
