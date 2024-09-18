@@ -417,5 +417,16 @@ color: green;
 	font-size: 20px;
 }
 
+.eee, .zzz, .ggg {
+	
+	text-align: center;
+	font-family: Arial;
+}
+
+.ggg {
+	font-size: 35px;
+	
+}
+
 
 
