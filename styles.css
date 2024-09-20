@@ -448,6 +448,12 @@ h3 .header{
 .ccc h2 {
 	color: red;
 }
+.aaa h2.nnn {
+    color: red;
+}
+.lll h3.kkk {
+	color: red;
+}
 
 
 
