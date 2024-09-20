@@ -291,18 +291,18 @@
 </div>
 
 <h1>61#1</h1>
-    <h4>Селектор .rrr .bbb означает, что он выбирает все элементы с классом bbb, которые находятся внутри элемента с классом eee.</h4>
+    <h4>Селектор .rrr .bbb означает, что он выбирает все элементы с классом bbb, которые находятся внутри элемента с классом rrr. (.rrr bbb)</h4>
     <div class="rrr">
-		<p> привет</p>
-        <p class="bbb"> Думаю в будущем еще поступлю на психолога</p>
+		<p> rrr p</p>
+        <p class="bbb"> rrr bbb p</p>
     </div>
 	<div>
         <p>
-        <p class="bbb">Сейчас учусь на программиста</p>
+        <p class="bbb">bbb p</p>
     </div>
 
 	<h1>61#2</h1>
-    <h4> Cелектор .ccc h2 применяет красный цвет только к заголовку 'h2' внутри элемента с классом ccc.</h4>
+    <h4> Cелектор .ccc h2 применяет красный цвет только к заголовку 'h2' внутри элемента с классом ccc. (.ccc h2)</h4>
         <div class="ccc">
             <h2>ccc h2</h2>
             <p>ccc p</p>
@@ -313,7 +313,7 @@
         </div>
 
 		<h1>61#3</h1>
-    <h4> Красный цвет применяется только к содержимому nnn под главенством aaa и h2 </h4>
+    <h4> Красный цвет применяется только к содержимому nnn под главенством aaa и h2 (.aaa h2 nnn)</h4>
     <div class="aaa">
         <h2 class="nnn">aaa h2 nnn</h2>
         <p>aaa p</p>
@@ -327,6 +327,27 @@
 	<div class="aaa">
         <h2>aaa h2</h2>
         <p>aaa p</p>
+    </div>
+
+<h1>61#4</h1>
+<p> (.lll h3 kkk)</p>
+	<div class="lll">
+        <h3 class="kkk"> lll h3 kkk</h3>
+        <p>lll p</p>
+    </div>
+    
+    <div class="lll">
+        <h3>lll h3</h3>
+    </div>
+
+	<h1>61#5</h1>
+<p> (.ppp p kpk)</p>
+	<div class="ppp">
+        <p class="kpk"> ppp p kpk</p>
+    </div>
+    
+    <div class="ppp">
+        <p>ppp p</p>
     </div>
 
 
