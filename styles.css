@@ -511,4 +511,22 @@ p.KKK {
 .text {
 	font-size: 45px;
 } 
+ 
+#element h2 {
 
+    color: rgb(0, 217, 255);
+    font-family: "Courier New";
+} 
+#element2 .text1 {
+    color: rgb(12, 14, 99);
+    font:  40px Arial; 
+}
+#element3 p.text3 {
+    color: blue; 
+    font:  40px Verdana ; 
+
+}
+
+#element4 li.text4 {
+    color: gold;
+}
