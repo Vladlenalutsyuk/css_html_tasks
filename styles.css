@@ -504,5 +504,11 @@ p.KKK {
 #elem3 {
     color: blue;
 } 
-
+#block {
+	color: rgb(255, 0, 170);
+	font-family: Verdana;
+}
+.text {
+	font-size: 45px;
+} 
 
