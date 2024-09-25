@@ -484,6 +484,15 @@ p.KKK {
 	font-size: 20px;
 }
 
+.bold {
+    font-weight: bold; /* Жирный текст */
+}
+.blue {
+    color: blue; /* Синий цвет текста */
+}
+.center {
+    text-align: center; /* Текст по центру */
+}
 
 
 
