@@ -597,3 +597,22 @@ h2 .tito{
 #elem10 .t10{
 	color: red;
 }
+#block1 h1,
+#block1 h2 {
+  text-align: center;
+}
+
+/*Task#70_2 */
+
+#block2 h1, 
+#block2 h2 {
+    text-align: center;
+}
+
+#block2 h1 {
+    font-size: 30px;
+}
+
+#block2 h2 {
+    font-size: 20px;
+}
