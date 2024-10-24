@@ -620,3 +620,18 @@ h2 .tito{
 .readme{
     color:#f800a5;
 }
+
+/*#71*/
+#blocks h1, #blocks h2, #blocks h3
+ {
+	text-align: center;
+}
+#blocks h2 {
+	
+	color: blue;
+}
+#blocks h3 {
+
+	font-size: 16px;
+	color: red;
+}
