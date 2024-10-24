@@ -647,3 +647,7 @@ h2 .tito{
 #bloca h1.eee, #bloca h2.zzz{
     text-align: center;
 }
+
+.xxx1 .kkk1, .eee3 h2.zzz3, #eee3 h2{
+	text-align: center;
+}
