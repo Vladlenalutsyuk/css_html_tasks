@@ -635,3 +635,15 @@ h2 .tito{
 	font-size: 16px;
 	color: red;
 }
+
+#bloca h1.eee {
+	
+	font-size: 30px;
+}
+#bloca h2.zzz {
+	
+	font-size: 20px;
+}
+#bloca h1.eee, #bloca h2.zzz{
+    text-align: center;
+}
