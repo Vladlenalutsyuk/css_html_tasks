@@ -1098,3 +1098,253 @@ h2:only-of-type {
 #task121 ol {
 	list-style-type: lower-greek;
 }
+
+#parent123_1{
+    width: 400px;
+    border: 1px dashed blue;
+}
+#child123_1{
+    margin: 50px;
+    height: 300px;
+    border: 1px solid orange;
+}
+
+#parent123_2{
+    width: 400px;
+    border: 1px dashed blue;
+}
+
+#child123_2{
+    margin: 25px;
+    border: 1px dashed green;
+}
+
+#child123_3{
+    height: 200px;
+    margin: 25px;
+    border: 1px solid red;
+}
+
+#parent124_1 {
+    width: 200px;
+    border: 1px solid red;
+}
+#child124_1{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+#parent124_2{
+    width: 200px;
+    border: 1px solid red;
+}
+
+#child124_2{
+    margin-top: 50px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+#parent124_3{
+    width: 200px;
+    border: 1px solid red;
+}
+
+#child124_3{
+    margin-top: 20px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+#parent126{
+    width: 200px;
+    border: 1px solid orange;
+}
+
+#child126{
+    margin: 25px 50px 100px 10px;
+    height: 50px;
+    border: 1px dashed blue;
+}
+
+#parent127_1{
+    width: 200px;
+    border: 1px solid orange;
+}
+
+#child127_1{
+    margin: 100px 50px;
+    height: 50px;
+    border: 1px dashed blue;
+}
+
+#parent127_2{
+    width: 200px;
+    border: 1px solid orange;
+}
+
+#child127_2{
+    margin: 25px 50px;
+    height: 50px;
+    border: 1px dashed blue;
+}
+
+#parent128_1{
+    width: 200px;
+    border: 1px solid orange;
+}
+
+#child128_1{
+    margin: 100px 50px 30px;
+    height: 50px;
+    border: 1px dashed blue;
+}
+
+#parent128_2{
+    width: 400px;
+    border: 1px solid orange;
+}
+
+#child128_2{
+    margin: 30px 100px 50px;
+    height: 50px;
+    border: 1px dashed blue;
+}
+
+#task129{
+    width: 200px;
+    text-align: justify;
+    padding: 30px;
+    border: 1px solid red;
+}
+
+#task129_1{
+    width: 500px;
+    text-align: justify;
+    padding: 20px;
+    margin-bottom: 30px;
+    border: 1px solid green;
+}
+
+#task129_2{
+    width: 300px;
+    text-align: justify;
+    padding: 10px;
+    margin-left: 50px;
+    border: 1px solid red;
+}
+
+#task130{
+    width: 200px;
+    text-align: justify;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    padding-left: 30px;
+    border: 1px solid red;
+}
+
+#task131_1{
+    width: 300px;
+    text-align: justify;
+    padding: 10px 20px 30px 40px;
+    border: 1px solid red;
+}
+
+#task131_2{
+    width: 300px;
+    text-align: justify;
+    padding: 60px 30px;
+    border: 1px solid red;
+}
+
+#task131_3{
+    width: 300px;
+    text-align: justify;
+    padding: 10px 20px 40px;
+    border: 1px solid red;
+}
+
+#elem1 {
+	width: 200px;
+	height: 200px;
+	background: lightpink;
+	margin-bottom: 20px;
+}
+
+#elem2 {
+	width: 200px;
+	height: 200px;
+	background: lightpink;
+	padding: 25px; 
+	border: 5px solid greenyellow;  
+}
+#elem3 {
+	width: 200px;
+	height: 200px;
+	background: lightpink;
+	margin-bottom: 20px;
+}
+
+#elem4{
+	width: 200px;
+	height: 200px;
+	background: lightpink;
+	padding: 25px; 
+	border: 5px solid greenyellow;  
+    box-sizing: border-box;
+}
+
+#task147 p{
+    display: inline;
+	border: 3px solid maroon;
+	margin-bottom: 20px;
+}
+#task147 a{
+    display: block;
+    width: 200px;
+	height: 50px;
+    text-align: center;
+	border: 2px solid darkmagenta;
+	margin-bottom: 25px;
+}
+
+#task152 div{
+    display: inline-block;
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
+
+#parent153{
+    display: block;
+    border: 1px solid red;
+}
+#child_1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+#child_2{
+    height: 100px;
+    width: 200px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+#child_3{
+    height: 100px;
+    width: 300px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
