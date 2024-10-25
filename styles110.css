@@ -1,0 +1,41 @@
+#task110_1{
+	background-image: url("barash.jpg");
+    background-position: center center;
+	background-repeat: no-repeat;
+    background-size: 200px 200px;
+	width: 250px;
+	height: 250px;
+	border: 3px solid maroon;
+}
+#task110_2{
+    width: 564px;
+    height: 317px;
+    border: 3px solid maroon;
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 660px 400px;
+    background-attachment: fixed;
+    
+
+}
+#task110_2 p{
+    width: 400px;
+	margin: 0 auto;
+	text-align: justify;
+	font-style: italic;
+	font-size: 17px;
+    color: rgb(138, 185, 195);
+
+}
+
+#task3{
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    background-position: center center;
+	background-image: url(kar_karch.jpg);
+	border: 6px dashed maroon;
+	padding: 10px;
+	width: 563px;
+	height: 564px;
+}
