@@ -1074,3 +1074,27 @@ h2:only-of-type {
     border: 1px solid green;
     border-radius: 50%;
 }
+
+#task112 ul {
+	list-style-type: square;
+}
+
+#task113 ul {
+	list-style-type: circle;
+}
+
+#task115 ul {
+	list-style-type: none;
+}
+
+#task119 ol {
+	list-style-type: lower-alpha;
+}
+
+#task120 ol {
+	list-style-type: upper-alpha;
+}
+
+#task121 ol {
+	list-style-type: lower-greek;
+}
