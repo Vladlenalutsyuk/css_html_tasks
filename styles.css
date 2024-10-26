@@ -1900,3 +1900,29 @@ h2:only-of-type {
     left: 10px;
     border: 3px solid palevioletred;
 }
+
+
+#parent183{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+
+#child183_1 {
+    left: -50px;
+}
+
+#child183_2 {
+    right: -50px;
+}
+
+#child183_1, #child183_2{
+    position: absolute;
+    top: 0;
+
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
