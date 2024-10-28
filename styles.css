@@ -2022,3 +2022,196 @@ h2:only-of-type {
 .clearfix {
     clear: both;
 }
+
+.childr {
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+.parent204, .parent205, .parent206, .parent207, .parent209_1, .parent209_2, .parent209_3, .parent209_4, .parent209_5, 
+.parent210_1, .parent210_2, .parent210_3, .parent210_4, .parent210_5, .parent210_6, .parent210_7, .parent211_1, .parent211_2, 
+.parent211_3, .parent211_4, .parent211_5, .parent211_6, .parent213_1, .parent213_2, .parent213_3{
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.parent204 {
+    display: flex;
+    flex-direction: row;
+    width: 900px;}
+
+    .parent205 {
+        display: flex;
+        flex-direction: row-reverse;}
+
+        .parent206 {
+            display: flex;
+            flex-direction: column;}
+
+            .parent207 {
+                display: flex;
+                flex-direction: column-reverse;}
+        
+                .parent209_1 {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: flex-end;
+                }
+                
+                .parent209_2 {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: flex-end;
+                }
+                
+                .parent209_3 {
+                    display: flex;
+                    flex-direction: row-reverse;
+                    justify-content: flex-start;
+                }
+                
+                .parent209_4 {
+                    display: flex;
+                    flex-direction: row-reverse;
+                    justify-content: flex-end;
+                }
+                
+                .parent209_5 {
+                    display: flex;
+                    flex-direction: column-reverse;
+                    justify-content: flex-end;
+                }
+
+
+
+                .parent210_1 {
+                    display: flex;
+                    flex-direction: column-reverse;
+                    justify-content: flex-end;
+                    align-items: flex-end;
+                }
+                
+                .parent210_2 {
+                    display: flex;
+                    flex-direction: row-reverse;
+                    justify-content: flex-start;
+                    align-items: flex-end;
+                }
+                
+                .parent210_3 {
+                    display: flex;
+                    flex-direction: column-reverse;
+                    justify-content: flex-end;
+                    align-items: flex-start;
+                }
+                
+                .parent210_4 {
+                    display: flex;
+                    flex-direction: column-reverse;
+                    justify-content: flex-start;
+                    align-items: flex-end;
+                }
+                
+                .parent210_5 {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: flex-start;
+                    align-items: flex-end;
+                }
+                
+                .parent210_6 {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    align-items: flex-start;
+                }
+                
+                .parent210_7 {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    align-items: flex-end;
+                }
+
+
+                .parent211_1 {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    align-items: center;
+                }
+                
+                .parent211_2 {
+                    display: flex;
+                    flex-direction: row-reverse;
+                    justify-content: center;
+                    align-items: center;
+                }
+                
+                .parent211_3 {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: flex-end;
+                    align-items: center;
+                }
+                
+                .parent211_4 {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-between;
+                    align-items: center;
+                }
+                
+                .parent211_5 {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                }
+                
+                .parent211_6 {
+                    display: flex;
+                    flex-direction: column-reverse;
+                    justify-content: center;
+                    align-items: center;
+                }
+                
+
+                .parent214_1{
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center ;
+                    align-items: stretch;}
+                    
+                .parent214_2{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center ;
+                    align-items: stretch;}
+                    
+                .parent214_3{
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between ;
+                    align-items: stretch ;}
+                
+                .childr1{
+                    width: 120px;
+                    border: 1px solid green;
+                }
+                    
+                .childr2{
+                    height: 40px;
+                    border: 1px solid green;
+                }
+                    
+                .childr3{
+                    height: 40px;
+                    border: 1px solid green;
+                }
+                 
+                
+                
