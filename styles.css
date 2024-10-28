@@ -1947,3 +1947,17 @@ h2:only-of-type {
     margin: 60px auto;
     padding: 20px;
 }
+#task189 {
+	width: 400px;
+	text-align: justify;
+}
+#img189_1 {
+	float: left;
+    margin-right: 10px;
+}
+#img189_2{
+    float: right;
+    margin-top: 10px;
+	margin-left: 10px;
+}
+
