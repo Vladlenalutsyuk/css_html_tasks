@@ -2292,7 +2292,7 @@ h2:only-of-type {
                             }
 
 
-                            .child216_1 {
+                            .childa216_1 {
                                 width: 120px;
                                 height: 60px;
                                 border: 1px solid green;
@@ -2302,7 +2302,7 @@ h2:only-of-type {
                                 align-self: flex-end;
                             }
                             
-                            .child216_2 {
+                            .childa216_2 {
                                 width: 100px;
                                 border: 1px solid green;
                             }
@@ -2311,7 +2311,7 @@ h2:only-of-type {
                                 align-self: center ; 
                             }
                             
-                            .child216_3 {
+                            .childa216_3 {
                                 width: 100px;
                                 height: 60px;
                                 border: 1px solid green;
@@ -2367,3 +2367,64 @@ h2:only-of-type {
                                 order: -1;
                                 border: 1px solid rgb(245, 39, 107); 
                             }
+
+
+                            #parent221_1 {
+                                display: grid;
+                                border: 3px solid palevioletred;
+                                padding: 10px;
+                                width: 600px;
+                            }
+                            
+                            #parent221_1 > div {
+                                padding: 10px;
+                                border: 2px solid yellowgreen;
+                                background-color: #f3f89b;
+                                text-align: center;
+                            }
+                            
+                            #parent221_2 {
+                                display: grid;
+                                grid-template-columns: 200px 200px;
+                                border: 3px solid palevioletred;
+                                padding: 10px;
+                                width: 600px;
+                            }
+                            
+                            #parent221_2 > div {
+                                padding: 10px;
+                                border: 2px solid yellowgreen;
+                                background-color: #f3f89b;
+                                text-align: center;
+                            }
+                            
+                            #parent221_3 {
+                                display: grid;
+                                grid-template-columns: 150px 150px;
+                                border: 3px solid palevioletred;
+                                padding: 10px;
+                                width: 600px;
+                            }
+                            
+                            #parent221_3 > div {
+                                padding: 10px;
+                                border: 2px solid yellowgreen;
+                                background-color: #f3f89b;
+                                text-align: center;
+                            }
+                            
+                            #parent221_4 {
+                                display: grid;
+                                grid-template-columns: 100px 150px 200px;
+                                border: 3px solid palevioletred;
+                                padding: 10px;
+                                width: 600px;
+                            }
+                            
+                            #parent221_4 > div {
+                                padding: 10px;
+                                border: 2px solid yellowgreen;
+                                background-color: #f3f89b;
+                                text-align: center;
+                            }
+                            
