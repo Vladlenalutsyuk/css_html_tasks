@@ -1,0 +1,76 @@
+#task189 {
+	width: 400px;
+	text-align: justify;
+}
+#img189_1 {
+	float: left;
+    margin-right: 10px;
+}
+#img189_2{
+    float: right;
+    margin-top: 10px;
+	margin-left: 10px;
+}
+
+#parent201 {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+#child201 {
+    float: right;
+    width: 130px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+}
+
+#parent202 {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+#child202_1, #child202_2 {
+    float: right;
+    width: 130px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+    text-align: center;
+}
+
+#parent203_1, #parent203_2 {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#child203_1 {
+    float: left;
+}
+
+#child203_2 {
+    float: right;
+}
+
+#child203_1, #child203_2{
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    text-align: center;
+    border: 1px solid green;
+}
+
+.clearfix {
+    clear: both;
+}
+

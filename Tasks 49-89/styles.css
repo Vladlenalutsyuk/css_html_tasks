@@ -1,0 +1,1356 @@
+.task_50a{
+    p {
+        color: blue;
+    }
+}
+
+.task_50b{
+    p {
+        color: blue;
+    }
+    b {
+        color: red;
+    }
+}
+
+.task_50c{
+    b {
+        color: red;
+    }
+    p {
+        color: blue;
+    }
+}
+
+.task_50d{
+    ul {
+        color: blue;
+    }
+}
+
+.task_50e{
+    ul {
+        color: blue;
+    }
+    li {
+        color: red;
+    }
+}
+
+.task_50f{
+    ul {
+        color: blue;
+    }
+    li {
+        color: red;
+    }
+    i {
+        color: green;
+    }
+}
+
+.task_50g{
+    i {
+        font-size: 30px;
+    }
+    ul {
+        font-size: 20px;
+    }
+    li {
+        color: red;
+        font-weight: bold;
+    }
+}
+
+.task_51{
+    h1, h2, h3 {
+        text-align: center;
+    }
+}
+
+.task_52{
+    h1,h2,h3 {
+        text-align: center;
+    }
+    h2 {
+        color: blue;
+    }
+    h3 {
+        font-size: 16px;
+        color: red;
+    }
+}
+.task_52b{
+    h1,h2,h3 {
+        text-align: center;
+        color: red;
+    }
+        
+        
+    h3 {
+        
+        font-size: 16px;
+        
+    }
+
+}
+.task_53{
+    ul i{
+        color: red;
+    }
+    p i {
+        color:#08f100
+    }
+}
+.task_53b{
+    p b i{
+        color: red;
+    }
+}
+.task_54{
+    li > b{
+        color: red;
+    }
+}
+
+.eve {
+    color: green;
+}
+.odd {
+    color: red;
+}
+
+.eee {
+    color: red;
+}
+.xxx{
+    font-size: 30px;
+}
+.block1{
+    color: red;
+}
+.block2{
+color: green;
+}
+
+.block3{
+color: blue;
+
+}
+.block4{
+color: red;
+}
+
+.block5{
+color: green;
+
+}
+.eee, .zzz {
+line-height: 1.5;
+font-family: Arial;
+}
+.zzz {
+font-size: 30px;
+}
+.eee {
+font-size: 20px;
+}
+
+.eee, .zzz, .ggg {
+
+text-align: center;
+font-family: Arial;
+}
+
+.ggg {
+font-size: 35px;
+
+}
+.header{
+color: red;
+}
+h2 .header{
+
+font-size: 40px;
+}
+h3 .header{
+
+font-size: 30px;
+}
+.eee i{
+color: red;
+
+}
+.rrr .bbb {
+color: red;
+}
+.ccc h2 {
+color: red;
+}
+.aaa h2.nnn {
+color: red;
+}
+.lll h3.kkk {
+color: red;
+}
+.ppp p.kpk {
+color: red;
+}
+.ooo .iii.ttt {
+color: red;
+}
+p.KKK {
+color: red;
+} 
+
+.mmm p.nin {
+color: red;
+} 
+
+.tit p .oco {
+color: red;
+} 
+.success {
+color: green;
+}
+.error {
+color: red;
+}
+.large {
+font-size: 30px;
+}
+.small {
+font-size: 20px;
+}
+
+.bold {
+font-weight: bold; /* Жирный текст */
+}
+.blue {
+color: blue; /* Синий цвет текста */
+}
+.center {
+text-align: center; /* Текст по центру */
+}
+#elem1 {
+color: red;
+}
+
+#elem2 {
+color: green;
+}
+
+#elem3 {
+color: blue;
+} 
+#block {
+color: rgb(255, 0, 170);
+font-family: Verdana;
+}
+.text {
+font-size: 45px;
+} 
+
+#element h2 {
+
+color: rgb(0, 217, 255);
+font-family: "Courier New";
+} 
+#element2 .text1 {
+color: rgb(12, 14, 99);
+font:  40px Arial; 
+}
+#element3 p.text3 {
+color: blue; 
+font:  40px Verdana ; 
+
+}
+
+#element4 li.text4 {
+color: gold;
+}
+
+.ror.tot.yoy {
+color: palevioletred;
+text-align: center;
+}
+
+.qoq.xox {
+color: red;
+}
+
+
+h2.qqqu.xxxu {
+color: red;
+}
+
+#elemm.boo {
+color: red;
+}
+
+
+#eleemm.ba.za {
+color: red;
+}
+
+
+h2#eelem.br {
+color: red;
+}
+h2.kiko{
+color: red;
+}
+
+h2 .tito{
+color: red;
+}
+
+.fht.clu{
+color: red;
+}
+
+.mov .cim{
+color: red;
+}
+
+.ddd.fff.ggg{
+color: red;
+}
+
+.leon .fav.jjj{
+color: red;
+}
+
+.rrr.ttt .yyy{
+color: red;
+}
+
+.kk .kl .ki{
+color: red;
+}
+
+#star.joli{
+color: red;
+}
+
+#elem10 .t10{
+color: red;
+}
+#block1 h1,
+#block1 h2 {
+text-align: center;
+}
+
+/*Task#70_2 */
+
+#block2 h1, 
+#block2 h2 {
+text-align: center;
+}
+
+#block2 h1 {
+font-size: 30px;
+}
+
+#block2 h2 {
+font-size: 20px;
+}
+
+.readme{
+color:#f800a5;
+}
+
+/*#71*/
+#blocks h1, #blocks h2, #blocks h3
+{
+text-align: center;
+}
+#blocks h2 {
+
+color: blue;
+}
+#blocks h3 {
+
+font-size: 16px;
+color: red;
+}
+
+#bloca h1.eee {
+
+font-size: 30px;
+}
+#bloca h2.zzz {
+
+font-size: 20px;
+}
+#bloca h1.eee, #bloca h2.zzz{
+text-align: center;
+}
+
+.xxx1 .kkk1, .eee3 h2.zzz3, #eee3 h2{
+text-align: center;
+}
+
+/* 71#4 */
+.eee4 h2.zzz4, .xxx4{
+text-align: center;
+}
+
+/* Task 72_1 */
+.task1 p{
+color: red;
+}
+/* Task 72_2 */
+.task2 h2{
+color: blueviolet;
+}
+/* Task 72_3 */
+#block3 p{
+color: green;
+}
+/* Task 72_4 */
+#block4 h2{
+color:yellow;
+}
+/* Task 72_5 */
+.bbb5{
+color: red;
+}
+/* Task 72_6 */
+#block6 .bbb6{
+color: fuchsia;
+}
+/* Task 72_7 */
+p.bbb7{
+color: darkred;
+}
+/* Task 72_8 */
+h2.bbb8{
+color: rgb(102, 75, 255);
+}
+/* Task 72_9 */
+#block9 p.bbb9{
+color: hotpink;
+}
+/* Task 72_10 */
+.bbb10, .xxx10{
+color: mediumorchid;
+}
+/* Task 72_11 */
+p.bbb11, h2.xxx11{
+color: blue;
+}
+/* Task 72_12 */
+#block12 p.bbb12, #block12 p.xxx12{
+color: red;
+}
+/* Task 72_13 */
+.fff13{
+color: rgb(230, 79, 198);
+}
+/* Task 72_14 */
+.fff14 p{
+color:red;
+}
+/* Task 72_15 */
+p.fff15{
+color: green;
+}
+/* Task 72_16 */
+.fff16 .bbb16{
+color: crimson;
+}
+/* Task 72_17 */
+.fff17 h2.bbb17{
+color: orangered;
+}
+
+/* Task#73_1 */
+.task73 {
+font-size: 20px;
+}
+.task73 {
+font-size: 30px;
+}
+/* Task#73_1 */
+.task74 {
+font-size: 20px;
+color: blue;
+}
+.task74 {
+font-style: italic;
+color: red;
+}
+/* Task#77_1 */
+#elem77_1 + li {
+color: red;
+}
+/* Task#77_2 */
+.elem77_2 + li {
+color: red;
+}
+/* Task#78_1 */
+#elem78 ~ li {
+color: red;
+}
+main * p {
+color: red;
+}
+/*Task#80_1*/
+[title] {
+color: rgb(1, 154, 67); 
+font-family: Verdana;
+}
+/*Task#80_2*/
+p[title1] {
+color: green; 
+font-style: bold; 
+}
+/*Task#80_3*/
+p[title3="hello"] {
+color:rgb(46, 42, 165);
+font-weight: italic;
+}
+/*Task#80_4*/
+a[href^="http://"] {
+color:rgb(195, 255, 54);
+text-align: left;
+
+}
+/*Task#80_5*/
+
+a[href$=".html"] {
+color: orangered;
+}
+/*Task#80_6*/
+p[title4*="hello"] {
+
+font-size: 80px;
+}
+/*Task#80_7*/
+p[class^="top-"] {
+color: rgb(6, 149, 56);
+font-size: 20px;
+}
+/* Task#82_1 */
+.task82:link {
+color: blue; 
+text-decoration: none; 
+}
+
+.task82:visited {
+color: green; 
+text-decoration: none;
+}
+
+.task82:hover {
+color: red; 
+text-decoration: none; 
+}
+
+.task82:active {
+color: black;
+text-decoration: none; 
+}
+/* Task#84_1 */
+.task84 {
+color: blue; 
+text-decoration: none; 
+}
+.task84:hover {
+color: red; 
+text-decoration: underline;
+}
+/* Task#85_1*/
+#task85 a {
+color: red;
+}
+#task85 a:hover {
+text-decoration: none;
+}
+/* Task#86_1*/
+a.zzz86_1 {
+color: red;
+}
+a.zzz86_1:hover {
+text-decoration: none;
+}
+/* Task#86_2*/
+#task86_2 a.zzz86_2 {
+color: red;
+}
+#task86_2 a.zzz86_2:hover {
+text-decoration: none;
+}
+/* Task#86_3*/
+.task86_3 a.zzz86_3 {
+color: red;
+}
+.task_86 a.zzz86_3:hover {
+text-decoration: none;
+}
+/* Task#87_1 */
+.task87_1 li:first-child{
+color :rgb(255, 0, 0);
+}
+/* Task#87_2 */
+.task87_2 li:last-child{
+color : green;
+}
+/* Task#87_3 */
+.task87_3 li:first-child{
+color :rgb(255, 0, 0);
+}
+.task87_3 li:last-child{
+color : green;
+}
+/* Task#87_4 */
+.task87_4 li:nth-child(3){
+color : red;
+}
+/* Task#87_5 */
+.task87_5 li:nth-child(odd){
+color:red;
+}
+.task87_5 li:nth-child(even){
+color: green;
+}
+/* Task#87_6 */
+.task87_6 li:nth-child(3n){
+color:red;
+}
+/* Task#87_7 */
+.task87_7 li:nth-last-child(2){
+color:red; 
+}
+/* Task#87_8 */
+.task87_8 li:only-child {
+color: red;
+}
+
+.task87_8 ul {
+margin-bottom: 10px;
+}
+/* Task#87_9 */
+.task87_9 li {
+border: 1px solid red;
+width: 100px;
+padding: 3px;
+margin-top: 10px;
+}
+.task87_9 li:empty {
+border: 1px solid blue;
+}
+/* Task#88_1 */
+.task88_1 p:first-of-type {
+color:darkblue;
+}
+.task88_1 p:last-of-type{
+color: purple;
+}
+/* Task#88_2 */
+.task88_2 p:nth-last-of-type(even){
+color:rgb(160, 12, 162);
+}
+.task88_2 p:nth-of-type(odd){
+color: rgb(7, 192, 53);
+}
+/* Task#88_3 */
+.task88_3 {
+border: 1px dashed rgb(255, 0, 225);
+padding: 15px;
+margin-bottom: 10px;
+}
+h2:only-of-type {
+color: red;
+}
+/* Task#89_1 */
+.task89_1 li:not(li.elem89_1){
+color: orangered;
+}
+/* Task#89_2 */
+.task89_2 li:not(:first-child) {
+color: blue;
+}
+/* Task#89_1 */
+.task89_3 li:not(:first-child, :last-child){
+color: red;
+}
+.task_50a{
+            p {
+                color: blue;
+            }
+        }
+
+        .task_50b{
+            p {
+                color: blue;
+            }
+            b {
+                color: red;
+            }
+        }
+
+        .task_50c{
+            b {
+                color: red;
+            }
+            p {
+                color: blue;
+            }
+        }
+
+        .task_50d{
+            ul {
+                color: blue;
+            }
+        }
+
+        .task_50e{
+            ul {
+                color: blue;
+            }
+            li {
+                color: red;
+            }
+        }
+
+        .task_50f{
+            ul {
+                color: blue;
+            }
+            li {
+                color: red;
+            }
+            i {
+                color: green;
+            }
+        }
+
+        .task_50g{
+            i {
+                font-size: 30px;
+            }
+            ul {
+                font-size: 20px;
+            }
+            li {
+                color: red;
+                font-weight: bold;
+            }
+        }
+
+        .task_51{
+            h1, h2, h3 {
+                text-align: center;
+            }
+        }
+
+        .task_52{
+            h1,h2,h3 {
+                text-align: center;
+            }
+            h2 {
+                color: blue;
+            }
+            h3 {
+                font-size: 16px;
+                color: red;
+            }
+        }
+        .task_52b{
+            h1,h2,h3 {
+                text-align: center;
+                color: red;
+            }
+                
+                
+            h3 {
+                
+                font-size: 16px;
+                
+            }
+
+        }
+        .task_53{
+            ul i{
+                color: red;
+            }
+            p i {
+                color:#08f100
+            }
+        }
+        .task_53b{
+            p b i{
+                color: red;
+            }
+        }
+        .task_54{
+            li > b{
+                color: red;
+            }
+        }
+
+        .eve {
+            color: green;
+        }
+        .odd {
+            color: red;
+        }
+
+        .eee {
+            color: red;
+        }
+        .xxx{
+            font-size: 30px;
+        }
+        .block1{
+            color: red;
+        }
+.block2{
+    color: green;
+}
+
+.block3{
+color: blue;
+
+}
+.block4{
+    color: red;
+}
+
+.block5{
+color: green;
+
+}
+.eee, .zzz {
+	line-height: 1.5;
+	font-family: Arial;
+}
+.zzz {
+	font-size: 30px;
+}
+.eee {
+	font-size: 20px;
+}
+
+.eee, .zzz, .ggg {
+	
+	text-align: center;
+	font-family: Arial;
+}
+
+.ggg {
+	font-size: 35px;
+	
+}
+.header{
+    color: red;
+}
+h2 .header{
+    
+    font-size: 40px;
+}
+h3 .header{
+    
+    font-size: 30px;
+}
+.eee i{
+    color: red;
+
+}
+.rrr .bbb {
+    color: red;
+}
+.ccc h2 {
+	color: red;
+}
+.aaa h2.nnn {
+    color: red;
+}
+.lll h3.kkk {
+	color: red;
+}
+.ppp p.kpk {
+	color: red;
+}
+.ooo .iii.ttt {
+    color: red;
+}
+p.KKK {
+	color: red;
+} 
+
+.mmm p.nin {
+	color: red;
+} 
+
+.tit p .oco {
+	color: red;
+} 
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+.bold {
+    font-weight: bold; /* Жирный текст */
+}
+.blue {
+    color: blue; /* Синий цвет текста */
+}
+.center {
+    text-align: center; /* Текст по центру */
+}
+#elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: blue;
+} 
+#block {
+	color: rgb(255, 0, 170);
+	font-family: Verdana;
+}
+.text {
+	font-size: 45px;
+} 
+ 
+#element h2 {
+
+    color: rgb(0, 217, 255);
+    font-family: "Courier New";
+} 
+#element2 .text1 {
+    color: rgb(12, 14, 99);
+    font:  40px Arial; 
+}
+#element3 p.text3 {
+    color: blue; 
+    font:  40px Verdana ; 
+
+}
+
+#element4 li.text4 {
+    color: gold;
+}
+
+.ror.tot.yoy {
+	color: palevioletred;
+    text-align: center;
+}
+
+.qoq.xox {
+	color: red;
+}
+
+
+h2.qqqu.xxxu {
+	color: red;
+}
+
+#elemm.boo {
+    color: red;
+}
+
+
+#eleemm.ba.za {
+	color: red;
+}
+
+
+h2#eelem.br {
+	color: red;
+}
+h2.kiko{
+	color: red;
+}
+
+h2 .tito{
+	color: red;
+}
+
+.fht.clu{
+	color: red;
+}
+
+.mov .cim{
+	color: red;
+}
+
+.ddd.fff.ggg{
+	color: red;
+}
+
+.leon .fav.jjj{
+	color: red;
+}
+
+.rrr.ttt .yyy{
+	color: red;
+}
+
+.kk .kl .ki{
+	color: red;
+}
+
+#star.joli{
+	color: red;
+}
+
+#elem10 .t10{
+	color: red;
+}
+#block1 h1,
+#block1 h2 {
+  text-align: center;
+}
+
+/*Task#70_2 */
+
+#block2 h1, 
+#block2 h2 {
+    text-align: center;
+}
+
+#block2 h1 {
+    font-size: 30px;
+}
+
+#block2 h2 {
+    font-size: 20px;
+}
+
+.readme{
+    color:#f800a5;
+}
+
+/*#71*/
+#blocks h1, #blocks h2, #blocks h3
+ {
+	text-align: center;
+}
+#blocks h2 {
+	
+	color: blue;
+}
+#blocks h3 {
+
+	font-size: 16px;
+	color: red;
+}
+
+#bloca h1.eee {
+	
+	font-size: 30px;
+}
+#bloca h2.zzz {
+	
+	font-size: 20px;
+}
+#bloca h1.eee, #bloca h2.zzz{
+    text-align: center;
+}
+
+.xxx1 .kkk1, .eee3 h2.zzz3, #eee3 h2{
+	text-align: center;
+}
+
+/* 71#4 */
+.eee4 h2.zzz4, .xxx4{
+	text-align: center;
+}
+
+/* Task 72_1 */
+.task1 p{
+    color: red;
+}
+/* Task 72_2 */
+.task2 h2{
+    color: blueviolet;
+}
+/* Task 72_3 */
+#block3 p{
+    color: green;
+}
+/* Task 72_4 */
+#block4 h2{
+    color:yellow;
+}
+/* Task 72_5 */
+.bbb5{
+    color: red;
+}
+/* Task 72_6 */
+#block6 .bbb6{
+    color: fuchsia;
+}
+/* Task 72_7 */
+p.bbb7{
+    color: darkred;
+}
+/* Task 72_8 */
+h2.bbb8{
+    color: rgb(102, 75, 255);
+}
+/* Task 72_9 */
+#block9 p.bbb9{
+    color: hotpink;
+}
+/* Task 72_10 */
+.bbb10, .xxx10{
+    color: mediumorchid;
+}
+/* Task 72_11 */
+p.bbb11, h2.xxx11{
+    color: blue;
+}
+/* Task 72_12 */
+#block12 p.bbb12, #block12 p.xxx12{
+    color: red;
+}
+/* Task 72_13 */
+.fff13{
+    color: rgb(230, 79, 198);
+}
+/* Task 72_14 */
+.fff14 p{
+    color:red;
+}
+/* Task 72_15 */
+p.fff15{
+    color: green;
+}
+/* Task 72_16 */
+.fff16 .bbb16{
+    color: crimson;
+}
+/* Task 72_17 */
+.fff17 h2.bbb17{
+    color: orangered;
+}
+
+/* Task#73_1 */
+.task73 {
+	font-size: 20px;
+}
+.task73 {
+	font-size: 30px;
+}
+/* Task#73_1 */
+.task74 {
+	font-size: 20px;
+	color: blue;
+}
+.task74 {
+	font-style: italic;
+	color: red;
+}
+/* Task#77_1 */
+#elem77_1 + li {
+	color: red;
+}
+/* Task#77_2 */
+.elem77_2 + li {
+	color: red;
+}
+/* Task#78_1 */
+#elem78 ~ li {
+	color: red;
+}
+main * p {
+	color: red;
+}
+/*Task#80_1*/
+[title] {
+    color: rgb(1, 154, 67); 
+    font-family: Verdana;
+}
+/*Task#80_2*/
+p[title1] {
+    color: green; 
+    font-style: bold; 
+}
+/*Task#80_3*/
+p[title3="hello"] {
+    color:rgb(46, 42, 165);
+    font-weight: italic;
+}
+/*Task#80_4*/
+a[href^="http://"] {
+    color:rgb(195, 255, 54);
+    text-align: left;
+
+}
+/*Task#80_5*/
+
+a[href$=".html"] {
+    color: orangered;
+}
+/*Task#80_6*/
+p[title4*="hello"] {
+    
+    font-size: 80px;
+}
+/*Task#80_7*/
+p[class^="top-"] {
+    color: rgb(6, 149, 56);
+    font-size: 20px;
+}
+/* Task#82_1 */
+.task82:link {
+    color: blue; 
+    text-decoration: none; 
+  }
+  
+.task82:visited {
+    color: green; 
+    text-decoration: none;
+  }
+  
+.task82:hover {
+    color: red; 
+    text-decoration: none; 
+  }
+  
+.task82:active {
+    color: black;
+    text-decoration: none; 
+  }
+/* Task#84_1 */
+.task84 {
+    color: blue; 
+    text-decoration: none; 
+}
+.task84:hover {
+    color: red; 
+    text-decoration: underline;
+}
+/* Task#85_1*/
+#task85 a {
+	color: red;
+}
+#task85 a:hover {
+	text-decoration: none;
+}
+/* Task#86_1*/
+a.zzz86_1 {
+	color: red;
+}
+a.zzz86_1:hover {
+	text-decoration: none;
+}
+/* Task#86_2*/
+#task86_2 a.zzz86_2 {
+	color: red;
+}
+#task86_2 a.zzz86_2:hover {
+	text-decoration: none;
+}
+/* Task#86_3*/
+.task86_3 a.zzz86_3 {
+	color: red;
+}
+.task_86 a.zzz86_3:hover {
+	text-decoration: none;
+}
+/* Task#87_1 */
+.task87_1 li:first-child{
+    color :rgb(255, 0, 0);
+}
+/* Task#87_2 */
+.task87_2 li:last-child{
+    color : green;
+}
+/* Task#87_3 */
+.task87_3 li:first-child{
+    color :rgb(255, 0, 0);
+}
+.task87_3 li:last-child{
+    color : green;
+}
+/* Task#87_4 */
+.task87_4 li:nth-child(3){
+    color : red;
+}
+/* Task#87_5 */
+.task87_5 li:nth-child(odd){
+    color:red;
+}
+.task87_5 li:nth-child(even){
+    color: green;
+}
+/* Task#87_6 */
+.task87_6 li:nth-child(3n){
+    color:red;
+}
+/* Task#87_7 */
+.task87_7 li:nth-last-child(2){
+    color:red; 
+}
+/* Task#87_8 */
+.task87_8 li:only-child {
+	color: red;
+}
+
+.task87_8 ul {
+	margin-bottom: 10px;
+}
+/* Task#87_9 */
+.task87_9 li {
+    border: 1px solid red;
+    width: 100px;
+    padding: 3px;
+    margin-top: 10px;
+   }
+.task87_9 li:empty {
+    border: 1px solid blue;
+   }
+/* Task#88_1 */
+.task88_1 p:first-of-type {
+    color:darkblue;
+}
+.task88_1 p:last-of-type{
+    color: purple;
+}
+/* Task#88_2 */
+.task88_2 p:nth-last-of-type(even){
+    color:rgb(160, 12, 162);
+}
+.task88_2 p:nth-of-type(odd){
+    color: rgb(7, 192, 53);
+}
+/* Task#88_3 */
+.task88_3 {
+	border: 1px dashed rgb(255, 0, 225);
+	padding: 15px;
+	margin-bottom: 10px;
+}
+h2:only-of-type {
+	color: red;
+}
+/* Task#89_1 */
+.task89_1 li:not(li.elem89_1){
+    color: orangered;
+}
+/* Task#89_2 */
+.task89_2 li:not(:first-child) {
+    color: blue;
+}
+/* Task#89_1 */
+.task89_3 li:not(:first-child, :last-child){
+    color: red;
+}
